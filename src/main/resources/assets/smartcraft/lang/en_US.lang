@@ -1,0 +1,13 @@
+# Keys
+keys.smartcraft.category=SmartCraft
+keys.smartcraft.charge=Charge
+keys.smartcraft.release=Release
+
+# Creative Tabs
+itemGroup.smartcraft=SmartCraft
+
+# Items
+items.smartcraft:runiteSword.name=Runite Sword
+items.smartcraft:runitePickaxe.name=Runite Pickaxe
+
+# Blocks
